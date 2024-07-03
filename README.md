@@ -14,11 +14,12 @@
 
 ## Hey there :wave:
   
-My name is Evan Koehler. I'm a Epitech student, and I love React, C and C++ !
+My name is Evan Koehler. I'm a Epitech student, and I love React, React Native, C and C++ !
   
-I'm a front-end and mobile developper who likes UI/UX design. I also like to contribute in C and C++ projects. I'm a linux and FOSS enjoyer.
+I'm a front-end and mobile developper who likes UI/UX design. I also like to contribute in C and C++ projects. And I'm a linux and FOSS enjoyer.
   
 I'm a Linux ricer, and my dotfiles are available here :  
+  - [Dotfiles 2023/2024](https://github.com/EvanKoe/dotfiles_2023.git)  
   - [Dotfiles 2022](https://github.com/EvanKoe/dotfiles_2022.git)  
   - [Dotfiles 2021](https://github.com/EvanKoe/dotfiles_2021.git)  
 
