@@ -51,6 +51,5 @@ I'm a Linux ricer, and my dotfiles are available here :
 
 ### :fire: My Stats :
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=EvanKoe) <br />
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EvanKoe&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
