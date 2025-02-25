@@ -3,12 +3,12 @@
 </div>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/evan-koehler-epitech/">
+  <a href="https://www.linkedin.com/in/evan-koehler-it/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" />
   </a>
   
-  <a href="https://portfolio-evankoehler.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-red?style=for-the-badge" />
+  <a href="https://dev.to/evk_6713">
+    <img src="https://img.shields.io/badge/My%20articles-red?style=for-the-badge" />
   </a>
 </div>
 
